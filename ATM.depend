@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1621935345 source:d:\da-iict\2nd sem\data structures\it206_dsa_lab\g1_202001034_lab5\atm\src\functions_m.cpp
+	<bits/stdc++.h>
+	"functions.h"
+
+1621935345 d:\da-iict\2nd sem\data structures\it206_dsa_lab\g1_202001034_lab5\atm\include\functions.h
+
+1622969989 source:d:\da-iict\2nd sem\data structures\atm\src\functions_m.cpp
+	<bits/stdc++.h>
+	"functions.h"
+
+1622969989 d:\da-iict\2nd sem\data structures\atm\include\functions.h
+
+1623001326 source:d:\da-iict\2nd sem\data structures\atm\main.cpp
+	<bits/stdc++.h>
+	"functions.h"
+
